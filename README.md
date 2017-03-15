@@ -22,7 +22,7 @@ https://github.com/popekim/ShaderPrimerKR
 
 ## Normal Mapping
 * **Linear Filter X**
-![normalmapping o](https://cloud.githubusercontent.com/assets/13383741/23900163/77509e02-08fb-11e7-8a70-49055baf75f4.PNG)
+![normal1](https://cloud.githubusercontent.com/assets/13383741/23933555/b2d701e6-0982-11e7-8560-8d3095c2d224.PNG)
 
 * **Linear Filter O**
-![normalmapping x](https://cloud.githubusercontent.com/assets/13383741/23900164/775af94c-08fb-11e7-97a9-f2ecaa7df340.PNG)
+![normal2](https://cloud.githubusercontent.com/assets/13383741/23933558/b4b5a864-0982-11e7-8e3d-1627b2b9f053.PNG)
