@@ -26,3 +26,14 @@ https://github.com/popekim/ShaderPrimerKR
 
 * **Linear Filter O**
 ![normal2](https://cloud.githubusercontent.com/assets/13383741/23933558/b4b5a864-0982-11e7-8e3d-1627b2b9f053.PNG)
+
+## Toon Shader
+* **Toon Shader**
+![toonshader](https://cloud.githubusercontent.com/assets/13383741/24024613/2bd31cbc-0af8-11e7-8cd3-925545ae50b7.PNG)
+
+## Environment Mapping
+* **Texture X**
+![environmentmapping0](https://cloud.githubusercontent.com/assets/13383741/24024578/fe830e16-0af7-11e7-9cf7-9032838d8271.PNG)
+
+* **Texture O**
+![environmentmapping1](https://cloud.githubusercontent.com/assets/13383741/24024579/fe831d52-0af7-11e7-9692-0a19711f3d35.PNG)
