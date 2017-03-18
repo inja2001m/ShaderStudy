@@ -39,7 +39,7 @@ https://github.com/popekim/ShaderPrimerKR
 ![environmentmapping1](https://cloud.githubusercontent.com/assets/13383741/24024579/fe831d52-0af7-11e7-9692-0a19711f3d35.PNG)
 
 ## UV Animation
-* **Move Texuture UV**
+* **Move Texture UV**
 ![1 mp4_000001918](https://cloud.githubusercontent.com/assets/13383741/24071076/763033a6-0c0d-11e7-9d1d-3a127b1d61aa.gif)
 
 * **Wave Y Position**
