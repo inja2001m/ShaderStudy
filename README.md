@@ -51,3 +51,10 @@ https://github.com/popekim/ShaderPrimerKR
 
 * **Wave Shadow**
 ![2](https://cloud.githubusercontent.com/assets/13383741/24105306/c640aafe-0dc7-11e7-8239-7843e837352a.gif)
+
+## Grayscale, Sepia Effect
+* **Grayscale**
+![1](https://cloud.githubusercontent.com/assets/13383741/24145517/c875c5c2-0e74-11e7-9ef5-e1cf51358422.PNG)
+
+* **Sepia**
+![2](https://cloud.githubusercontent.com/assets/13383741/24145516/c87595d4-0e74-11e7-98c9-d1f511543d53.PNG)
