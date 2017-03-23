@@ -58,3 +58,10 @@ https://github.com/popekim/ShaderPrimerKR
 
 * **Sepia**
 ![2](https://cloud.githubusercontent.com/assets/13383741/24145516/c87595d4-0e74-11e7-98c9-d1f511543d53.PNG)
+
+## Outline, Embossing Effect
+* **Outline**
+![1](https://cloud.githubusercontent.com/assets/13383741/24251395/62356f56-101d-11e7-84f6-4e8476f53ad1.PNG)
+
+* **Embossing**
+![2](https://cloud.githubusercontent.com/assets/13383741/24251396/625f14b4-101d-11e7-95be-c49d88049fd8.PNG)
