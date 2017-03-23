@@ -1,4 +1,4 @@
-# ShaderStudy
+# ShaderStudy[*DONE*]
 
 ## Origin
 https://github.com/popekim/ShaderPrimerKR
